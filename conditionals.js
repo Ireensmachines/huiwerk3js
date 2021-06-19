@@ -50,4 +50,5 @@ const temperature = 10
  }
  if(isRaining == true || temperature <12){
     console.log( "Doe een jas aan!")
+
  }
